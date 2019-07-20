@@ -1,0 +1,16 @@
+{
+"companyName": "JYAK42",
+"productName": "Slide Puzzle 4",
+"productVersion": "0.2.5",
+"dataUrl": "2019-07-19.data.unityweb",
+"wasmCodeUrl": "2019-07-19.wasm.code.unityweb",
+"wasmFrameworkUrl": "2019-07-19.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
