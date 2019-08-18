@@ -1,7 +1,7 @@
 {
 "companyName": "JYAK42",
 "productName": "Slide Puzzle 4",
-"productVersion": "0.3.2a",
+"productVersion": "0.3.2b",
 "dataUrl": "sp4.data.unityweb",
 "wasmCodeUrl": "sp4.wasm.code.unityweb",
 "wasmFrameworkUrl": "sp4.wasm.framework.unityweb",
